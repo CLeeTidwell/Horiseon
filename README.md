@@ -1,9 +1,9 @@
 # Horiseon
 
 Horiseon is a company dedicated to
-    *Search Engine Optimization
-    *Online Reputation Management
-    *Social Media Marketing
+- Search Engine Optimization
+- Online Reputation Management
+- Social Media Marketing
 
 This website briefly describes each topic with their statements. Each section is seperated using div tags 
 and need proper semantics and updated CSS file to help with website accessibility.
