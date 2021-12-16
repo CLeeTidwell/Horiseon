@@ -19,7 +19,6 @@ https://cleetidwell.github.io/Horiseon/
 
 ![Screenshot of Deployed Site top](./assets/images/Deployed1.jpg)
 ![Screenshot of Deployed Site bottom](./assets/images/Deployed2.jpg)
-!
 
 
 <footer>
