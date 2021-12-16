@@ -1,8 +1,8 @@
 # Horiseon
 
-Horiseon is dedicated to
-*Search Engine Optimization
-*Online Reputation Management
+Horiseon is dedicated to<br>
+*Search Engine Optimization<br>
+*Online Reputation Management<br>
 *Social Media Marketing
 
 This project includes an updated Index.html file, Assets folder containing updated CSS and Images used to build webpage.
