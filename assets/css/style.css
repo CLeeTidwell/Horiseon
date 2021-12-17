@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*  Adding Semantics, removing div tags in HTML */
 /* Changed all Calibri font family to include "" */
 /* changed to header instead of div class */
 
@@ -26,7 +26,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Swapped div class to header, added nav tags in HTML */
 /* changed to target nav instead of a div tag */
 
 nav {
@@ -55,6 +55,8 @@ p {
     font-size: 16px;
 }
 
+/* Changing div classes to sections and articles with proper ids, alt tag for img in HTML*/
+/* added a title to hero image */
 #hero {
 height: 800px;
 width: 100%;
@@ -135,7 +137,7 @@ background-position: center;
     font-size: 36px;
 }
 
-/* changed to target footer */
+/* changed to target footer, changed div section to footer in HTML */
 
 footer {
     padding: 30px;
