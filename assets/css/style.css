@@ -9,7 +9,7 @@ body {
 }
 /*  Adding Semantics, removing div tags in HTML */
 /* Changed all Calibri font family to include "" */
-/* changed to header instead of div class */
+/* Changed to header instead of div class */
 
 header {
     padding: 20px;
@@ -27,7 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 /* Swapped div class to header, added nav tags in HTML */
-/* changed to target nav instead of a div tag */
+/* Changed to target nav instead of a div tag */
 
 nav {
     padding-top: 15px;
@@ -56,7 +56,7 @@ p {
 }
 
 /* Changing div classes to sections and articles with proper ids, alt tag for img in HTML*/
-/* added a title to hero image in HTML */
+/* Added a title to hero image in HTML */
 #hero {
 height: 800px;
 width: 100%;
@@ -97,17 +97,23 @@ background-position: center;
 /* used correct selector to target proper id */
 /* consolidated #benefit styling */
 
-#benefit-lead, #benefit-cost, #benefit-brand {
+#benefit-lead, 
+#benefit-cost, 
+#benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-#benefit-lead h3, #benefit-brand h3, #benefit-cost h3{
+#benefit-lead h3, 
+#benefit-brand h3, 
+#benefit-cost h3{
     margin-bottom: 10px;
     text-align: center; 
 }
 
-#benefit-lead img, #benefit-brand img, #benefit-cost img{
+#benefit-lead img, 
+#benefit-brand img, 
+#benefit-cost img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -115,7 +121,9 @@ background-position: center;
 
 /* Consolidated styling */
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing{
+.search-engine-optimization, 
+.online-reputation-management, 
+.social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -126,13 +134,17 @@ background-position: center;
 
 /* consolidated img styling */
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img{
+.search-engine-optimization img, 
+.online-reputation-management img, 
+.social-media-marketing img{
     max-height: 200px;
 }
 
 /* consolidated h2 styling */
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2{
+.search-engine-optimization h2, 
+.online-reputation-management h2, 
+.social-media-marketing h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
